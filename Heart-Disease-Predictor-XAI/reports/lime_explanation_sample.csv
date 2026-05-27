@@ -1,0 +1,11 @@
+lime_condition,lime_weight,lime_direction,original_feature
+thal=7,0.2760928375941642,increased risk,thal
+ca=1,0.2234057605380413,increased risk,ca
+cp=4,0.21533405987630494,increased risk,cp
+sex=1,0.19950530247555276,increased risk,sex
+thalach <= 134.50,0.11848393414395787,increased risk,thalach
+slope=2,0.11781703379167602,increased risk,slope
+oldpeak > 1.60,0.0910514845934598,increased risk,oldpeak
+48.00 < age <= 56.00,-0.07514710176138781,decreased risk,age
+exang=1,0.044365665912656664,increased risk,exang
+restecg=1,0.02671881432133274,increased risk,restecg

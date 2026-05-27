@@ -1,0 +1,14 @@
+original_feature,shap_value,shap_impact,shap_direction,lime_weight,lime_impact,lime_direction,direction_agreement
+thal,1.0841677,1.0841677,increased risk,0.2760928375941642,0.2760928375941642,increased risk,Agree
+ca,1.0613475,1.0613475,increased risk,0.2234057605380413,0.2234057605380413,increased risk,Agree
+cp,0.92507815,0.92507815,increased risk,0.21533405987630494,0.21533405987630494,increased risk,Agree
+oldpeak,0.6025625,0.6025625,increased risk,0.0910514845934598,0.0910514845934598,increased risk,Agree
+slope,0.49546552,0.49546552,increased risk,0.11781703379167602,0.11781703379167602,increased risk,Agree
+thalach,0.4116754,0.4116754,increased risk,0.11848393414395787,0.11848393414395787,increased risk,Agree
+sex,0.33893138,0.33893138,increased risk,0.19950530247555276,0.19950530247555276,increased risk,Agree
+age,-0.24712136,0.24712136,decreased risk,-0.07514710176138781,0.07514710176138781,decreased risk,Agree
+exang,0.24155931,0.24155931,increased risk,0.044365665912656664,0.044365665912656664,increased risk,Agree
+trestbps,0.19319044,0.19319044,increased risk,0.0,0.0,neutral,Different
+chol,0.12193472,0.12193472,increased risk,0.0,0.0,neutral,Different
+restecg,0.1193554,0.1193554,increased risk,0.02671881432133274,0.02671881432133274,increased risk,Agree
+fbs,0.017993225,0.017993225,increased risk,0.0,0.0,neutral,Different

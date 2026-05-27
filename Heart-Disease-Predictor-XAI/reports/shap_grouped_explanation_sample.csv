@@ -1,0 +1,14 @@
+original_feature,shap_value,shap_impact,shap_direction
+thal,1.0841677,1.0841677,increased risk
+ca,1.0613475,1.0613475,increased risk
+cp,0.92507815,0.92507815,increased risk
+oldpeak,0.6025625,0.6025625,increased risk
+slope,0.49546552,0.49546552,increased risk
+thalach,0.4116754,0.4116754,increased risk
+sex,0.33893138,0.33893138,increased risk
+age,-0.24712136,0.24712136,decreased risk
+exang,0.24155931,0.24155931,increased risk
+trestbps,0.19319044,0.19319044,increased risk
+chol,0.12193472,0.12193472,increased risk
+restecg,0.1193554,0.1193554,increased risk
+fbs,0.017993225,0.017993225,increased risk
