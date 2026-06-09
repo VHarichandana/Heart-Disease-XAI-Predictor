@@ -1,0 +1,4 @@
+plots/* linguist-vendored
+reports/* linguist-documentation
+screenshots/* linguist-documentation
+*.html linguist-detectable=false
